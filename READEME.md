@@ -1,5 +1,8 @@
+This program creates a DFS Spanning tree using flooding algorithm.
+I have used a static graph, but the program can handle any graph. In the main.java class, I have an init() method which creates the graph. You can use any graph as required.
+Below is the graph I have used:
+<img src="https://github.com/shantanuspark/DFS-Spanning-Tree-using-Flooding/blob/master/input.JPG" />
 
-This README file explains how to use the program "To build a DFS spanning tree"
 You have several options for running it...
 
 ---- RUN IN AN IDE ----
